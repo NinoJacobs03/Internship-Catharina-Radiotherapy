@@ -13,6 +13,6 @@
                  To be used when visible rectal air is observed on CBCT,
                  after a minimum of 5 delivered treatment fractions.
 
-Files          : The Word document titled "" provides a description of how radiotherapy laborants can use the workflow.
-                 It outlines the steps for initializing the workflow in RayStation and explains how the Python script (filename: "") is 
+Files          : The Word document titled "Rectal_Air_Workflow_User_Guide.docx" provides a description of how radiotherapy laborants can use the workflow.
+                 It outlines the steps for initializing the workflow in RayStation and explains how the Python script (filename: "Rectal_Air_Intervention_Check.py") is 
                  integrated into RayStation to determine whether intervention is necessary when rectal air is present.
